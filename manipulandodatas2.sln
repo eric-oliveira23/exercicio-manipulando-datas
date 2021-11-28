@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "manipulandodatas2", "manipulandodatas2.csproj", "{521712E2-9600-429D-916F-E7F7EFBF41D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{521712E2-9600-429D-916F-E7F7EFBF41D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521712E2-9600-429D-916F-E7F7EFBF41D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521712E2-9600-429D-916F-E7F7EFBF41D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521712E2-9600-429D-916F-E7F7EFBF41D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F4BC42F-7F4C-4CCD-998C-7BF141F02D85}
+	EndGlobalSection
+EndGlobal
